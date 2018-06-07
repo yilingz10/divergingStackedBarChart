@@ -5,7 +5,7 @@
                            $Resource.jslib+'/jquery-3.1.1.min.js',
                            $Resource.jslib + '/d3/d3.min.js',
                            $Resource.canvasjs)}"
-                  styles="{!$Resource.SLDSVertexMosaic+'/assets/styles/salesforce-lightning-design-system-ltng.css'}"
+                  styles="{!$Resource.SLDSResource+'/assets/styles/salesforce-lightning-design-system-ltng.css'}"
                   afterScriptsLoaded="{!c.afterScriptsLoaded}"/>
     <div class="Vertex-Mosaic" style="width:68%">
         <div class="slds-grid">
